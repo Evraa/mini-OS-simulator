@@ -1,0 +1,12 @@
+46 DEL 9
+72 DEL 10
+43 ADD hovcwgkpdajxfilceyiybwzijgqc
+89 DEL 2
+30 DEL 5
+27 ADD rfztrrkyonspkmihapppdhpanyqlck
+23 ADD ipotvtsrfwpoaygeauuvaqmnbscryerbydnnrzoq
+13 ADD hgudoiocirmkwemfhhtlpyxldyysbgyl
+16 ADD wushjfedshcuoowvpiwtp
+50 DEL 0
+40 ADD xjcfr
+28 DEL 7
